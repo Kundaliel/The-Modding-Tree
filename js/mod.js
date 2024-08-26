@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	name: "50xTree",
+	id: "50xTree",
+	author: "Kundaliel",
+	pointsName: "$",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -11,6 +11,7 @@ let modInfo = {
 	offlineLimit: 1,  // In hours
 }
 
+// Set your version in num and name
 // Set your version in num and name
 let VERSION = {
 	num: "0.0",
